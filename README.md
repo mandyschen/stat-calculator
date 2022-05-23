@@ -1,6 +1,4 @@
 # stat-calculator
-AP Statistics Calculator for Inference Type Questions
-
 STATISTICAL CALCULATOR FOR INFERENCE TYPE QUESTIONS FOR THE AP STATISTICS EXAM
 
 CREATED BY: Mandy Chen
