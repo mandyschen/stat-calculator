@@ -11,6 +11,8 @@ SUMMARY: This is a basic statistical calculator that can evaluate one and two sa
 intervals and significance tests for means and proportions. It is meant to mimic what may be found on 
 the AP Statistics Exam FRQs for inference type questions.
 
+* CURRENTLY ONLY WORKS FOR ONE SAMPLE Z TEST *
+
 TEST CASE:
 COLLEGEBOARD 2021 QUESTION #4:
 
@@ -23,6 +25,8 @@ coupons, 38 place an order.
 
 Is there convincing statistical evidence, at the significance level a = 0.05, that the manager's belief 
 is correct? 
+
+Copy + Paste: 1 2 1 y y 1 90 .05 .4 .422 x
 
 x = 30
 n = 90
